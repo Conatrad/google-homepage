@@ -1,2 +1,1 @@
-This webpage was created using codepen.io
-The lack of commits is due to the final project being created and finalized there.
+Very early try at reproducing the Google Homepage by looking at it for reference
